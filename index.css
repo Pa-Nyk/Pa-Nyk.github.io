@@ -1,3 +1,20 @@
 body {
-background: #7300fa;
+background: black;
 }
+
+h1 {
+  font: futura;
+  color: #7300fa;
+  font-weight: 500px
+  position: absolute;
+  top: 500px;
+  left: 2000px;
+}
+
+h2 {
+  font: futura;
+  color: #cec1f9;
+}
+
+
+  
