@@ -1,5 +1,6 @@
-body {
-background: black;
+.greet screen {
+  height: 2000px;
+background-color: black;
 }
 
 h1 {
@@ -11,10 +12,19 @@ h1 {
   left: 2000px;
 }
 
+.info front page {
+  background-color: white;
+}
+
 h2 {
   font: futura;
   color: #cec1f9;
 }
 
-
+.home text {
+  font: futura;
+  color: white;
+  background-color: #cec1f9;
+}
+  
   
